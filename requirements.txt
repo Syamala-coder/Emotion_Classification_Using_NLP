@@ -2,5 +2,6 @@ streamlit>=1.38
 tensorflow>=2.15
 numpy
 joblib
+scikit-learn
 soundfile
 SpeechRecognition>=3.10
